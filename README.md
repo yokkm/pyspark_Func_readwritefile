@@ -1,5 +1,9 @@
-#### pyspark_Func_readwritefile
+## pyspark_Func_readwritefile
 user defined function created for read/write file purpose
+available for 
+* Paquet
+* orc
+* csv
 
 __Read file__
 path = _'desired path'_
